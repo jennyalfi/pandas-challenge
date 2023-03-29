@@ -1,7 +1,7 @@
 # pandas-challenge
 Week 4 assignment
 ## Background
-The project is to assist a school district in analyzing student math and reading scores.
+The project is to assist a school district in analyzing student test scores to help them make strategic decisions regarding future school budgets and priorities. The task is to aggregate the data to display trends in school performance.
 
 ## Findings
 * District Summary: 
